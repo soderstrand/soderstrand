@@ -5,25 +5,30 @@
 
 document.addEventListener("DOMContentLoaded", async function () {
 
+    // GitHub Pages repository root
+    const siteRoot = "/soderstrand";
+
     async function loadComponent(id, file) {
         const target = document.getElementById(id);
         if (!target) return;
 
-        const depth = window.location.pathname.split("/").length - 2;
-        const prefix = "../".repeat(Math.max(depth,0));
+        try {
+            const response = await fetch(siteRoot + "/shared/" + file);
 
-        const response = await fetch(prefix + "shared/" + file);
-        if (!response.ok) {
-            console.error("Unable to load " + file);
-            return;
+            if (!response.ok) {
+                console.error("Unable to load:", siteRoot + "/shared/" + file);
+                return;
+            }
+
+            target.innerHTML = await response.text();
+        } catch (err) {
+            console.error("Error loading", file, err);
         }
-
-        target.innerHTML = await response.text();
     }
 
-    await loadComponent("header","header.html");
-    await loadComponent("nav","nav.html");
-    await loadComponent("footer","footer.html");
+    await loadComponent("header", "header.html");
+    await loadComponent("nav", "nav.html");
+    await loadComponent("footer", "footer.html");
 
     console.log("Shared page components loaded.");
 });
