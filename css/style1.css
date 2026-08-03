@@ -95,14 +95,7 @@ footer{margin-top:60px;padding:20px;text-align:center;background:#ece6dc;}
    ========================================================== */
 
 .photo-frame{
-  aspect-ratio:4 / 3;
-  padding:18px;
-  box-sizing:border-box;
-  border-bottom:3px solid rgba(0,0,0,.20);
-}
-
-.photo-frame-wide{
-  aspect-ratio:16 / 9;
+  height:210px;                 /* Taller photo area for 3:2 images */
   padding:18px;
   box-sizing:border-box;
   border-bottom:3px solid rgba(0,0,0,.20);
