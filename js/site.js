@@ -3,9 +3,13 @@
 // Shared Components Prototype
 // =====================================================
 
-document.addEventListener("DOMContentLoaded", async function () {
+// Determine the site root while this script is executing.
+// Local:       http://localhost:8000/js/site.js       -> ""
+// GitHub Pages: https://soderstrand.github.io/soderstrand/js/site.js -> "/soderstrand"
+const scriptUrl = new URL(document.currentScript.src, window.location.href);
+const siteRoot = scriptUrl.pathname.replace(/\/js\/site\.js$/, "");
 
-    const siteRoot = "/soderstrand";
+document.addEventListener("DOMContentLoaded", async function () {
 
     async function loadComponent(id, file) {
         const target = document.getElementById(id);
@@ -22,7 +26,8 @@ document.addEventListener("DOMContentLoaded", async function () {
         if (id === "nav") {
             document.querySelectorAll("#nav a").forEach(link => {
                 const href = link.getAttribute("href");
-                link.href = siteRoot + "/" + href;
+                const cleanHref = href.replace(/^\/+/, "");
+                link.href = new URL(siteRoot + "/" + cleanHref, window.location.origin).href;
 
                 const current = window.location.pathname;
                 if (current.endsWith(href) ||

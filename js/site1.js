@@ -1,18 +1,43 @@
 // =====================================================
 // Soderstrand Personal Website
-// Version 0.2
-// site.js
+// Shared Components Prototype
 // =====================================================
 
-document.addEventListener("DOMContentLoaded", function () {
-    console.log("Soderstrand Personal Website - Version 0.2 loaded.");
-});
+// Determine the site root while this script is executing.
+// Local:       http://localhost:8000/js/site.js       -> ""
+// GitHub Pages: https://soderstrand.github.io/soderstrand/js/site.js -> "/soderstrand"
+const scriptUrl = new URL(document.currentScript.src, window.location.href);
+const siteRoot = scriptUrl.pathname.replace(/\/js\/site\.js$/, "");
 
-// -----------------------------------------------------
-// Future versions will add:
-//   • Automatic menu highlighting
-//   • Timeline support
-//   • Shared page components
-//   • Photo gallery features
-//   • Search
-// -----------------------------------------------------
+document.addEventListener("DOMContentLoaded", async function () {
+
+    async function loadComponent(id, file) {
+        const target = document.getElementById(id);
+        if (!target) return;
+
+        const response = await fetch(siteRoot + "/shared/" + file);
+        if (!response.ok) {
+            console.error("Unable to load:", siteRoot + "/shared/" + file);
+            return;
+        }
+
+        target.innerHTML = await response.text();
+
+        if (id === "nav") {
+            document.querySelectorAll("#nav a").forEach(link => {
+                const href = link.getAttribute("href");
+                link.href = siteRoot + "/" + href;
+
+                const current = window.location.pathname;
+                if (current.endsWith(href) ||
+                    (href === "story/story.html" && current.includes("/story/"))) {
+                    link.classList.add("active");
+                }
+            });
+        }
+    }
+
+    await loadComponent("header","header.html");
+    await loadComponent("nav","nav.html");
+    await loadComponent("footer","footer.html");
+});
