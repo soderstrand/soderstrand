@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
@@ -7,14 +6,129 @@
 <title>Family - Michael Soderstrand</title>
 <link href="../css/style.css" rel="stylesheet"/>
 <script defer="" src="../js/site.js"></script>
+<style>
+.family-tree-section {
+    margin: 2rem 0 3rem;
+}
+
+.family-tree-scroll {
+    width: 100%;
+    overflow: auto;
+    border: 1px solid #ccc;
+    padding: 12px;
+    box-sizing: border-box;
+    background: #fafafa;
+}
+
+.family-tree-scroll img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: none;
+    margin: 0 auto;
+}
+
+.family-tree-scroll.rectangular img {
+    min-width: 3200px;
+}
+
+.family-tree-scroll.circular img {
+    min-width: 1400px;
+}
+
+.family-photo {
+    display: block;
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+    margin: 1.5rem auto;
+}
+</style>
 </head>
+
 <body>
 <div id="header"></div>
 <div id="nav"></div>
-<main class="placeholder-page">
-<h2>Family</h2>
-<p>This section of the website is currently under development.</p>
-<p>Content will be added in a future update.</p>
+
+<main>
+<h2>My Family Tree</h2>
+
+<p>
+I never had the honor of knowing personally my great-grandparents or my
+great-great-grandparents. I know them only through the family history that
+has been passed down to me. But I was very close to my four grandparents—or
+at least I thought they were my four grandparents.
+</p>
+
+<p>
+The photograph below shows the four grandparents I knew: Grandma Emmy
+(<strong>Emma Charlotta Jonsson</strong>), Grandpa Joe
+(<strong>Joseph Edward Söderstrand</strong>), Grandma Frances
+(<strong>Mary Frances Hainline</strong>), and Grandpa Dick
+(<strong>Richard Dixon</strong>).
+Richard Dixon does not appear on the family tree because he was not my
+biological grandfather. I was never told that as a child. He was, however,
+the only grandfather I knew on my mother's side, and I loved him as my
+grandfather.
+</p>
+
+<img class="family-photo"
+     src="grandparents.jpg"
+     alt="Grandma Emmy, Grandpa Joe, Grandma Frances and Grandpa Dick">
+
+<p>
+I never met <strong>Chauncy Lee Dewees</strong>, my biological grandfather
+on my mother's side. He died when I was only eight years old. My only
+memory connected with his death is of my mother staring out the front
+window. I could tell that something was wrong, so I asked her if she was
+OK. She simply said, "My dad died."
+</p>
+
+<p>
+As an eight-year-old, that confused me. I thought Grandpa Dick Dixon was
+her dad. I never asked about it, and it was not until much later that I
+realized that I had never known my biological grandfather on my mother's
+side.
+</p>
+
+<p>
+The two family trees below show the ancestry that I know from our family
+history. The first presents it in a traditional rectangular format; the
+second presents the same ancestry as a circular family tree.
+</p>
+
+<section class="family-tree-section">
+<h3>My Family Tree — Traditional View</h3>
+
+<div class="family-tree-scroll rectangular">
+    <img src="family_tree.svg"
+         alt="Michael Soderstrand family tree in rectangular format">
+</div>
+
+<p>
+<a href="family_tree.svg" target="_blank" rel="noopener">
+View the full-size rectangular family tree
+</a>
+</p>
+</section>
+
+<section class="family-tree-section">
+<h3>My Family Tree — Circular View</h3>
+
+<div class="family-tree-scroll circular">
+    <img src="family_tree_circular.svg"
+         alt="Michael Soderstrand family tree in circular format">
+</div>
+
+<p>
+<a href="family_tree_circular.svg" target="_blank" rel="noopener">
+View the full-size circular family tree
+</a>
+</p>
+</section>
+
 </main>
+
 <div id="footer"></div>
-</body></html>
+</body>
+</html>

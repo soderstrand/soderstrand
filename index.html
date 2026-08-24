@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
@@ -11,17 +10,40 @@
 <body>
 <div id="header"></div>
 <div id="nav"></div>
+
 <main>
-<h2>Welcome</h2>
-<p>
-Welcome to my personal website.
-This site chronicles my life, family, career,
-photography, and current interests.
-</p>
-<p>
-Use the navigation bar above to explore the site.
-</p>
+  <section style="display:flex; align-items:center; gap:40px; max-width:1000px; margin:0 auto; padding:20px 0 30px;">
+    <div style="flex:1; min-width:0;">
+      <h2>Welcome</h2>
+
+      <p>
+        Welcome to my personal website. This site chronicles my life, family, career,
+        photography, and current interests. It is a place to share some of the people,
+        places, ideas, and projects that have shaped my life—and some of the adventures
+        that lie ahead.
+      </p>
+
+      <p>
+        Use the navigation bar above to explore the site.
+      </p>
+    </div>
+
+    <div style="flex:0 0 240px; text-align:center;">
+      <img src="soderstrand.jpg"
+           alt="Michael Soderstrand"
+           style="width:240px; height:240px; object-fit:cover; border-radius:12px; box-shadow:0 3px 12px rgba(0,0,0,0.18);"/>
+      <p style="margin-top:10px; font-style:italic;">Michael Soderstrand</p>
+      <p style="margin:8px 0 0;">Phone: 202-642-8577</p>
+      <p style="margin:6px 0 0;">
+        ✉ <a href="mailto:soderstrand@ieee.org">soderstrand@ieee.org</a>
+      </p>
+      <p style="margin:6px 0 0;">
+        🌐 <a href="https://ucdavis.tv" target="_blank" rel="noopener">UCDavis.tv</a>
+      </p>
+    </div>
+  </section>
 </main>
+
 <div id="footer"></div>
 </body>
 </html>
