@@ -11,7 +11,7 @@
 
 <circle cx="1100" cy="1100" r="205" fill="#eeeeee" class="ring"/>
 <text x="1100.0" y="1070.0" font-family="Arial, Helvetica, sans-serif" font-size="34px" font-weight="700" fill="#222" text-anchor="middle"><tspan x="1100.0" dy="0.0">Michael Alan</tspan><tspan x="1100.0" dy="36.7">Söderstrand</tspan></text>
-<text x="1100.0" y="1150.0" font-family="Arial, Helvetica, sans-serif" font-size="26px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="1100.0" dy="0.0">1946–Living</tspan></text>
+<text x="1100.0" y="1130.0" font-family="Arial, Helvetica, sans-serif" font-size="26px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="1100.0" dy="0.0">1946–Living</tspan></text>
 <path d="M1100.00,895.00 A205,205 0 0 1 1100.00,1305.00 L1100.00,1495.00 A395,395 0 0 0 1100.00,705.00 Z" fill="#dceafa" class="ring"/>
 <g transform="translate(1400.0,1100.0) rotate(90.0)">
 <text x="0" y="-12.0" font-family="Arial, Helvetica, sans-serif" font-size="34px" font-weight="700" fill="#222" text-anchor="middle"><tspan x="0" dy="0.0">Joseph Norman</tspan><tspan x="0" dy="36.7">Söderstrand</tspan></text>

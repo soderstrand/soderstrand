@@ -11,7 +11,7 @@
 <text x="1600.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="1600.0" dy="0.0">Based on the genealogy diagram provided by Monica</tspan></text>
 <rect class="box" x="35.0" y="160" width="185" height="155" fill="#f6dede" />
 <text x="127.5" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="26px" font-weight="700" fill="#222" text-anchor="middle"><tspan x="127.5" dy="0.0px">Anders</tspan><tspan x="127.5" dy="28.1px">Nilsson</tspan></text>
-<text x="127.5" y="292.0" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="127.5" dy="0.0">1807–1888</tspan></text>
+<text x="127.5" y="292.0" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="127.5" dy="0.0">1807–Deceased</tspan></text>
 <rect class="box" x="231.3" y="160" width="185" height="155" fill="#f6dede" />
 <text x="323.8" y="202.0" font-family="Arial, Helvetica, sans-serif" font-size="26px" font-weight="700" fill="#222" text-anchor="middle"><tspan x="323.8" dy="0.0px">Greta Lisa</tspan><tspan x="323.8" dy="28.1px">Andersdotter</tspan><tspan x="323.8" dy="28.1px">Ahl</tspan></text>
 <text x="323.8" y="292.0" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="323.8" dy="0.0">1811–1873</tspan></text>
@@ -56,7 +56,7 @@
 <text x="2876.2" y="292.0" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="2876.2" dy="0.0">1824–1910</tspan></text>
 <rect class="box" x="2980.0" y="160" width="185" height="155" fill="#f6dede" />
 <text x="3072.5" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="26px" font-weight="700" fill="#222" text-anchor="middle"><tspan x="3072.5" dy="0.0px">Mary Frances</tspan><tspan x="3072.5" dy="28.1px">Rucker</tspan></text>
-<text x="3072.5" y="292.0" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="3072.5" dy="0.0">1829–1875?</tspan></text>
+<text x="3072.5" y="292.0" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="3072.5" dy="0.0">1829–Deceased</tspan></text>
 <rect class="box" x="75.7" y="475" width="300" height="140" fill="#e2f0e2" />
 <text x="225.7" y="522.0" font-family="Arial, Helvetica, sans-serif" font-size="26px" font-weight="700" fill="#222" text-anchor="middle"><tspan x="225.7" dy="0.0px">Per Adolph</tspan><tspan x="225.7" dy="28.1px">Söderstrand</tspan></text>
 <text x="225.7" y="587.0" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="225.7" dy="0.0">1845–1931</tspan></text>
@@ -64,12 +64,12 @@
 <path class="connector" d="M 225.7 350 V 475" />
 <rect class="box" x="468.3" y="475" width="300" height="140" fill="#e2f0e2" />
 <text x="618.3" y="522.0" font-family="Arial, Helvetica, sans-serif" font-size="26px" font-weight="700" fill="#222" text-anchor="middle"><tspan x="618.3" dy="0.0px">Anna Brita</tspan><tspan x="618.3" dy="28.1px">Ericson</tspan></text>
-<text x="618.3" y="587.0" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="618.3" dy="0.0">1841–1919</tspan></text>
+<text x="618.3" y="587.0" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="618.3" dy="0.0">?–1919</tspan></text>
 <path class="connector" d="M 520.2 315 V 350 H 716.5 V 315" />
 <path class="connector" d="M 618.3 350 V 475" />
 <rect class="box" x="861.0" y="475" width="300" height="140" fill="#e2f0e2" />
 <text x="1011.0" y="522.0" font-family="Arial, Helvetica, sans-serif" font-size="26px" font-weight="700" fill="#222" text-anchor="middle"><tspan x="1011.0" dy="0.0px">Johan Fredrik</tspan><tspan x="1011.0" dy="28.1px">Jonsson</tspan></text>
-<text x="1011.0" y="587.0" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="1011.0" dy="0.0">1851–1937</tspan></text>
+<text x="1011.0" y="587.0" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="400" fill="#666" text-anchor="middle"><tspan x="1011.0" dy="0.0">1851–Deceased</tspan></text>
 <path class="connector" d="M 912.8 315 V 350 H 1109.2 V 315" />
 <path class="connector" d="M 1011.0 350 V 475" />
 <rect class="box" x="1253.7" y="475" width="300" height="140" fill="#e2f0e2" />
