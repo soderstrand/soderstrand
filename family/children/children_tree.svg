@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1350" viewBox="0 0 2400 1350">
+<title>Michael Soderstrand — Children and Grandchildren</title>
+<desc>Family tree based on the supplied Children PowerPoint.</desc>
+<rect width="100%" height="100%" fill="white" />
+<line x1="1105" y1="140.0" x2="1290" y2="140.0" stroke="#666666" stroke-width="6" />
+<line x1="1197.5" y1="140.0" x2="1197.5" y2="365" stroke="#666666" stroke-width="6" />
+<line x1="900.0" y1="365" x2="1535.0" y2="365" stroke="#666666" stroke-width="6" />
+<line x1="900.0" y1="365" x2="900.0" y2="503" stroke="#666666" stroke-width="6" />
+<line x1="1535.0" y1="365" x2="1535.0" y2="503" stroke="#666666" stroke-width="6" />
+<line x1="525" y1="595.0" x2="675" y2="595.0" stroke="#666666" stroke-width="6" />
+<line x1="1760" y1="598.0" x2="1860" y2="598.0" stroke="#666666" stroke-width="6" />
+<line x1="600.0" y1="598.0" x2="600.0" y2="900" stroke="#666666" stroke-width="6" />
+<line x1="300.0" y1="900" x2="900.0" y2="900" stroke="#666666" stroke-width="6" />
+<line x1="300.0" y1="900" x2="300.0" y2="970" stroke="#666666" stroke-width="6" />
+<line x1="900.0" y1="900" x2="900.0" y2="970" stroke="#666666" stroke-width="6" />
+<line x1="1760.0" y1="598.0" x2="1860.0" y2="598.0" stroke="#666666" stroke-width="6" />
+<line x1="1810.0" y1="598.0" x2="1810.0" y2="970" stroke="#666666" stroke-width="6" />
+<rect x="655" y="45" width="450" height="190" rx="8" fill="#dcefd8" stroke="#666666" stroke-width="6" />
+<text x="880.0" y="117" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" fill="#222" text-anchor="middle">Michael Soderstrand</text>
+<text x="880.0" y="195" font-family="Arial, Helvetica, sans-serif" font-size="32px" font-weight="400" fill="#555" text-anchor="middle">Born: 1946</text>
+<rect x="1290" y="48" width="450" height="190" rx="8" fill="#dcefd8" stroke="#666666" stroke-width="6" />
+<text x="1515.0" y="120" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" fill="#222" text-anchor="middle">Eunyoung Kim</text>
+<text x="1515.0" y="198" font-family="Arial, Helvetica, sans-serif" font-size="32px" font-weight="400" fill="#555" text-anchor="middle">Born: 1951</text>
+<rect x="75" y="500" width="450" height="190" rx="8" fill="#dbeaf7" stroke="#666666" stroke-width="6" />
+<text x="300.0" y="572" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" fill="#222" text-anchor="middle">Karen Lau</text>
+<text x="300.0" y="650" font-family="Arial, Helvetica, sans-serif" font-size="32px" font-weight="400" fill="#555" text-anchor="middle">Born: 1979</text>
+<rect x="675" y="503" width="450" height="190" rx="8" fill="#dbeaf7" stroke="#666666" stroke-width="6" />
+<text x="900.0" y="575" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" fill="#222" text-anchor="middle">Matthew West</text>
+<text x="900.0" y="653" font-family="Arial, Helvetica, sans-serif" font-size="32px" font-weight="400" fill="#555" text-anchor="middle">Born: 1978</text>
+<rect x="1310" y="503" width="450" height="190" rx="8" fill="#dbeaf7" stroke="#666666" stroke-width="6" />
+<text x="1535.0" y="575" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" fill="#222" text-anchor="middle">Grace Yoona Cho</text>
+<text x="1535.0" y="653" font-family="Arial, Helvetica, sans-serif" font-size="32px" font-weight="400" fill="#555" text-anchor="middle">Born: 1977</text>
+<rect x="1860" y="503" width="450" height="190" rx="8" fill="#dbeaf7" stroke="#666666" stroke-width="6" />
+<text x="2085.0" y="575" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" fill="#222" text-anchor="middle">Lats Sakounlaphoum</text>
+<text x="2085.0" y="653" font-family="Arial, Helvetica, sans-serif" font-size="32px" font-weight="400" fill="#555" text-anchor="middle">Born: 1975</text>
+<rect x="75" y="970" width="450" height="190" rx="8" fill="#f4dce8" stroke="#666666" stroke-width="6" />
+<text x="300.0" y="1028" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" fill="#222" text-anchor="middle">Ollie West</text>
+<text x="300.0" y="1120" font-family="Arial, Helvetica, sans-serif" font-size="32px" font-weight="400" fill="#555" text-anchor="middle">Born: 2015</text>
+<rect x="675" y="970" width="450" height="190" rx="8" fill="#f4dce8" stroke="#666666" stroke-width="6" />
+<text x="900.0" y="1042" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" fill="#222" text-anchor="middle">Kellan West</text>
+<text x="900.0" y="1120" font-family="Arial, Helvetica, sans-serif" font-size="32px" font-weight="400" fill="#555" text-anchor="middle">Born: 2018</text>
+<rect x="1585" y="970" width="450" height="190" rx="8" fill="#f4dce8" stroke="#666666" stroke-width="6" />
+<text x="1810.0" y="1028" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" fill="#222" text-anchor="middle">Maru A.</text>
+<text x="1810.0" y="1062" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" fill="#222" text-anchor="middle">Sakounlaphoum</text>
+<text x="1810.0" y="1120" font-family="Arial, Helvetica, sans-serif" font-size="32px" font-weight="400" fill="#555" text-anchor="middle">Born: 2015</text>
+</svg>
