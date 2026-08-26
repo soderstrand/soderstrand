@@ -6,14 +6,34 @@
 <title>Michael Soderstrand</title>
 <link href="css/style.css" rel="stylesheet"/>
 <script defer="" src="js/site.js"></script>
+<style>
+  @media (max-width: 700px) {
+    .home-intro {
+      flex-direction: column;
+      align-items: stretch !important;
+      gap: 24px !important;
+      padding: 20px 16px 30px !important;
+    }
+
+    .home-profile {
+      flex: none !important;
+      width: 100%;
+    }
+
+    .home-profile img {
+      width: min(240px, 75vw) !important;
+      height: min(240px, 75vw) !important;
+    }
+  }
+</style>
 </head>
 <body>
 <div id="header"></div>
 <div id="nav"></div>
 
 <main>
-  <section style="display:flex; align-items:center; gap:40px; max-width:1000px; margin:0 auto; padding:20px 0 30px;">
-    <div style="flex:1; min-width:0;">
+  <section class="home-intro" style="display:flex; align-items:center; gap:40px; max-width:1000px; margin:0 auto; padding:20px 0 30px;">
+    <div class="home-welcome" style="flex:1; min-width:0;">
       <h2>Welcome</h2>
 
       <p>
@@ -28,7 +48,7 @@
       </p>
     </div>
 
-    <div style="flex:0 0 240px; text-align:center;">
+    <div class="home-profile" style="flex:0 0 240px; text-align:center;">
       <img src="soderstrand.jpg"
            alt="Michael Soderstrand"
            style="width:240px; height:240px; object-fit:cover; border-radius:12px; box-shadow:0 3px 12px rgba(0,0,0,0.18);"/>
