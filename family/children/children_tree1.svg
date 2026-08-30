@@ -17,30 +17,31 @@
 <line x1="1760.0" y1="598.0" x2="1860.0" y2="598.0" stroke="#666666" stroke-width="6" />
 <line x1="1810.0" y1="598.0" x2="1810.0" y2="970" stroke="#666666" stroke-width="6" />
 <rect x="655" y="45" width="450" height="190" rx="8" fill="#dcefd8" stroke="#666666" stroke-width="6" />
-<text x="880.0" y="117" font-family="Arial, Helvetica, sans-serif" font-size="56px" font-weight="700" fill="#222" text-anchor="middle">Michael</text>
+<text x="880.0" y="117" font-family="Arial, Helvetica, sans-serif" font-size="48px" font-weight="700" fill="#222" text-anchor="middle">Michael</text>
 <text x="880.0" y="195" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="400" fill="#555" text-anchor="middle">Father</text>
 <rect x="1290" y="48" width="450" height="190" rx="8" fill="#dcefd8" stroke="#666666" stroke-width="6" />
-<text x="1515.0" y="120" font-family="Arial, Helvetica, sans-serif" font-size="56px" font-weight="700" fill="#222" text-anchor="middle">Eunyoung</text>
+<text x="1515.0" y="120" font-family="Arial, Helvetica, sans-serif" font-size="48px" font-weight="700" fill="#222" text-anchor="middle">Eunyoung</text>
 <text x="1515.0" y="198" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="400" fill="#555" text-anchor="middle">Mother</text>
 <rect x="75" y="500" width="450" height="190" rx="8" fill="#dbeaf7" stroke="#666666" stroke-width="6" />
-<text x="300.0" y="572" font-family="Arial, Helvetica, sans-serif" font-size="56px" font-weight="700" fill="#222" text-anchor="middle">Karen</text>
+<text x="300.0" y="572" font-family="Arial, Helvetica, sans-serif" font-size="48px" font-weight="700" fill="#222" text-anchor="middle">Karen</text>
 <text x="300.0" y="650" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="400" fill="#555" text-anchor="middle">Wife of Matthew</text>
 <rect x="675" y="503" width="450" height="190" rx="8" fill="#dbeaf7" stroke="#666666" stroke-width="6" />
-<text x="900.0" y="575" font-family="Arial, Helvetica, sans-serif" font-size="56px" font-weight="700" fill="#222" text-anchor="middle">Matthew</text>
+<text x="900.0" y="575" font-family="Arial, Helvetica, sans-serif" font-size="48px" font-weight="700" fill="#222" text-anchor="middle">Matthew</text>
 <text x="900.0" y="653" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="400" fill="#555" text-anchor="middle">Son</text>
 <rect x="1310" y="503" width="450" height="190" rx="8" fill="#dbeaf7" stroke="#666666" stroke-width="6" />
-<text x="1535.0" y="575" font-family="Arial, Helvetica, sans-serif" font-size="56px" font-weight="700" fill="#222" text-anchor="middle">Grace</text>
+<text x="1535.0" y="575" font-family="Arial, Helvetica, sans-serif" font-size="48px" font-weight="700" fill="#222" text-anchor="middle">Grace</text>
 <text x="1535.0" y="653" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="400" fill="#555" text-anchor="middle">Daughter</text>
 <rect x="1860" y="503" width="450" height="190" rx="8" fill="#dbeaf7" stroke="#666666" stroke-width="6" />
-<text x="2085.0" y="575" font-family="Arial, Helvetica, sans-serif" font-size="56px" font-weight="700" fill="#222" text-anchor="middle">Lats</text>
+<text x="2085.0" y="575" font-family="Arial, Helvetica, sans-serif" font-size="48px" font-weight="700" fill="#222" text-anchor="middle">Lats</text>
 <text x="2085.0" y="653" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="400" fill="#555" text-anchor="middle">Husband of Grace</text>
 <rect x="75" y="970" width="450" height="190" rx="8" fill="#f4dce8" stroke="#666666" stroke-width="6" />
-<text x="300.0" y="1028" font-family="Arial, Helvetica, sans-serif" font-size="56px" font-weight="700" fill="#222" text-anchor="middle">Ollie</text>
+<text x="300.0" y="1028" font-family="Arial, Helvetica, sans-serif" font-size="48px" font-weight="700" fill="#222" text-anchor="middle">Ollie</text>
 <text x="300.0" y="1120" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="400" fill="#555" text-anchor="middle">Child of Karen &amp; Matthew</text>
 <rect x="675" y="970" width="450" height="190" rx="8" fill="#f4dce8" stroke="#666666" stroke-width="6" />
-<text x="900.0" y="1042" font-family="Arial, Helvetica, sans-serif" font-size="56px" font-weight="700" fill="#222" text-anchor="middle">Kellan</text>
+<text x="900.0" y="1042" font-family="Arial, Helvetica, sans-serif" font-size="48px" font-weight="700" fill="#222" text-anchor="middle">Kellan</text>
 <text x="900.0" y="1120" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="400" fill="#555" text-anchor="middle">Child of Karen &amp; Matthew</text>
 <rect x="1585" y="970" width="450" height="190" rx="8" fill="#f4dce8" stroke="#666666" stroke-width="6" />
-<text x="1810.0" y="1028" font-family="Arial, Helvetica, sans-serif" font-size="56px" font-weight="700" fill="#222" text-anchor="middle">Maru</text>
-<text x="1810.0" y="1120" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="400" fill="#555" text-anchor="middle">Child of Grace &amp; Lats</text>
+<text x="1810.0" y="1028" font-family="Arial, Helvetica, sans-serif" font-size="48px" font-weight="700" fill="#222" text-anchor="middle">Maru</text>
+<text x="1810.0" y="1062" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="400" fill="#555" text-anchor="middle">Child of Grace &amp; Lats</text>
+<text x="1810.0" y="1120" font-family="Arial, Helvetica, sans-serif" font-size="36px" font-weight="400" fill="#555" text-anchor="middle" />
 </svg>
