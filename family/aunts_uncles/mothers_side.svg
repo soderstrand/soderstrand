@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2800" height="1900" viewBox="0 0 2800 1900">
+<title>Michael Alan Soderstrand — Maternal Two-Generation Family Tree</title>
+<desc>Maternal two-generation family tree showing Frances's parents, Chauncy and Frances, Frances's siblings Minty and Ernie and their spouses, and the three children of Chauncy and Frances.</desc>
+
+<rect width="2800" height="1900" fill="white"/>
+
+<text x="1400" y="62" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#17365d" text-anchor="middle">My Maternal Grandparents, Aunts &amp; Uncles, and Their Children</text>
+<text x="1400" y="103" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Two generations — current family information, with unverified gaps left open</text>
+
+<!-- Frances's parents: directly above Chauncy & Frances. -->
+<rect x="650" y="125" width="560" height="220" rx="12" fill="#dcefd8" stroke="#666" stroke-width="6"/>
+<text x="930" y="168" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#555" text-anchor="middle">FRANCES'S PARENTS</text>
+<text x="930" y="213" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" fill="#222" text-anchor="middle">Richard &amp; Lucy</text>
+<text x="930" y="254" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#555" text-anchor="middle">Richard McGready Hainline (1837–1923)</text>
+<text x="930" y="292" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#555" text-anchor="middle">Lucy Elizabeth Davis (1848–1928)</text>
+<text x="930" y="325" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Parents of Mary Frances</text>
+
+<!-- Parent-to-child relationship: bottom middle of parents to top middle of Chauncy & Frances. -->
+<line x1="930" y1="345" x2="930" y2="620" stroke="#666" stroke-width="6"/>
+
+<text x="1400" y="420" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#555" text-anchor="middle">GENERATION 1 — FRANCES'S FAMILY AND MY GRANDPARENTS</text>
+
+<!-- One horizontal family line, ending at the center of the Ernie & Sallie box. -->
+<line x1="280" y1="510" x2="2230" y2="510" stroke="#666" stroke-width="6"/>
+
+<!-- Chauncy's siblings placeholder -->
+<line x1="280" y1="510" x2="280" y2="620" stroke="#666" stroke-width="6"/>
+<rect x="0" y="620" width="560" height="220" rx="12" fill="#f5f5f5" stroke="#999" stroke-width="4" stroke-dasharray="12 8"/>
+<text x="280" y="670" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#666" text-anchor="middle">CHAUNCY'S SIBLINGS</text>
+<text x="280" y="715" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">None currently known</text>
+<text x="280" y="757" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#555" text-anchor="middle">No siblings documented</text>
+<text x="280" y="800" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Research remains open</text>
+
+<!-- Chauncy & Frances -->
+<line x1="930" y1="510" x2="930" y2="620" stroke="#666" stroke-width="6"/>
+<rect x="650" y="620" width="560" height="220" rx="12" fill="#dbeaf7" stroke="#666" stroke-width="6"/>
+<text x="930" y="670" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Chauncy &amp; Frances</text>
+<text x="930" y="712" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Chauncy Lee Dewees (1882–1954)</text>
+<text x="930" y="749" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Mary Frances Hainline (1891–1967)</text>
+<text x="930" y="790" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#555" text-anchor="middle">My Grandparents</text>
+<text x="930" y="822" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Frances was the grandmother I knew</text>
+
+<!-- Minty & Charles -->
+<line x1="1580" y1="510" x2="1580" y2="620" stroke="#666" stroke-width="6"/>
+<rect x="1300" y="620" width="560" height="220" rx="12" fill="#dbeaf7" stroke="#666" stroke-width="6"/>
+<text x="1580" y="670" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Minty &amp; Charles</text>
+<text x="1580" y="712" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Arminta Dora Hainline (1880–1955)</text>
+<text x="1580" y="749" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Charles Edward Stanley (1877–1941)</text>
+<text x="1580" y="790" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#555" text-anchor="middle">My Aunt &amp; Uncle</text>
+<text x="1580" y="822" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Frances's sister &amp; brother-in-law</text>
+
+<!-- Ernie & Sallie -->
+<line x1="2230" y1="510" x2="2230" y2="620" stroke="#666" stroke-width="6"/>
+<rect x="1950" y="620" width="560" height="220" rx="12" fill="#dbeaf7" stroke="#666" stroke-width="6"/>
+<text x="2230" y="670" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Ernie &amp; Sallie</text>
+<text x="2230" y="712" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Ernest Edward Hainline (1885–1965)</text>
+<text x="2230" y="749" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Sallie E Rowland (1889–1968)</text>
+<text x="2230" y="790" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#555" text-anchor="middle">My Uncle &amp; Aunt</text>
+<text x="2230" y="822" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Frances's brother &amp; sister-in-law</text>
+
+<!-- Generation 2 -->
+<text x="930" y="920" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#555" text-anchor="middle">GENERATION 2 — CHILDREN OF CHAUNCY &amp; FRANCES</text>
+<line x1="930" y1="840" x2="930" y2="960" stroke="#666" stroke-width="6"/>
+<line x1="280" y1="960" x2="1580" y2="960" stroke="#666" stroke-width="6"/>
+
+<!-- Dick: directly below the far-left Chauncy-sibling placeholder. -->
+<line x1="280" y1="960" x2="280" y2="1000" stroke="#666" stroke-width="6"/>
+<rect x="0" y="1000" width="560" height="220" rx="12" fill="#f4dce8" stroke="#666" stroke-width="6"/>
+<text x="280" y="1050" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Dick &amp; Bernetha</text>
+<text x="280" y="1090" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Richard Hugh (Dick) Dewees</text>
+<text x="280" y="1122" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Mar 3 1911 – Feb 4 1982</text>
+<text x="280" y="1155" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Lillian "Bea" Bernatha Baumstimler (1914–2003)</text>
+<text x="280" y="1192" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#555" text-anchor="middle">My Uncle &amp; Aunt</text>
+
+<!-- Harold: directly below Chauncy & Frances. -->
+<line x1="930" y1="960" x2="930" y2="1000" stroke="#666" stroke-width="6"/>
+<rect x="650" y="1000" width="560" height="220" rx="12" fill="#f4dce8" stroke="#666" stroke-width="6"/>
+<text x="930" y="1050" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Harold &amp; Mickey</text>
+<text x="930" y="1090" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Harold Lee Dewees</text>
+<text x="930" y="1122" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Aug 13 1912 – Dec 4 1980</text>
+<text x="930" y="1155" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Mae "Mickey" Irene Crouse (1914–1979)</text>
+<text x="930" y="1192" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#555" text-anchor="middle">My Uncle &amp; Aunt</text>
+
+<!-- Joseph N. & Helen: directly below Minty & Charles. -->
+<line x1="1580" y1="960" x2="1580" y2="1000" stroke="#666" stroke-width="6"/>
+<rect x="1300" y="1000" width="560" height="220" rx="12" fill="#f4dce8" stroke="#666" stroke-width="6"/>
+<text x="1580" y="1050" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Joseph N. &amp; Helen</text>
+<text x="1580" y="1090" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Joseph Norman Soderstrand (1919–1993)</text>
+<text x="1580" y="1122" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Helen Irene Dewees (1916–2011)</text>
+<text x="1580" y="1155" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#555" text-anchor="middle">My Dad &amp; Mom</text>
+<text x="1580" y="1184" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">One of three siblings Helen, Dick and Harold</text>
+<text x="1580" y="1207" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Married to Joseph N.</text>
+
+</svg>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2600" height="1500" viewBox="0 0 2600 1500">
+<title>Grandparents, Great Aunts and Uncles, and Their Children</title>
+<desc>Two-generation family tree. Generation one shows the five children of Peter Adolph and Anna Brita, including Joseph Edward and Emma Charlotta as the grandparents, ordered by sibling birth date. Generation two shows the children under the appropriate parent couple. Jack is shown as a child of Anna and Vic with a note reflecting the family relationship as remembered.</desc>
+<rect width="2600" height="1500" fill="white" />
+
+<text x="1300" y="65" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#17365d" text-anchor="middle">My Grandparents, Aunts &amp; Uncles, and Their Children</text>
+<text x="1300" y="105" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#555" text-anchor="middle">Two generations — family relationships as I remember them, informed by Monica's research</text>
+
+
+<rect x="950" y="135" width="700" height="175" rx="14" fill="#dcefd8" stroke="#666" stroke-width="6" />
+<text x="1300" y="178" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#555" text-anchor="middle">MY GREAT GRANDPARENTS</text>
+<text x="1300" y="225" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" fill="#222" text-anchor="middle">Peter &amp; Anna B.</text>
+<text x="1300" y="260" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">Peter (1845–1931)</text>
+<text x="1300" y="292" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">Anna B. (1841–1919)</text>
+
+
+<text x="1300" y="350" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#555" text-anchor="middle">GENERATION 1 — THEIR FIVE CHILDREN</text>
+
+
+<line x1="260" y1="390" x2="2340" y2="390" stroke="#666" stroke-width="6" />
+<line x1="1300" y1="310" x2="1300" y2="390" stroke="#666" stroke-width="6" />
+
+
+<line x1="260" y1="390" x2="260" y2="425" stroke="#666" stroke-width="6" />
+<rect x="35" y="425" width="450" height="225" rx="12" fill="#dbeaf7" stroke="#666" stroke-width="6" />
+<text x="260" y="475" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Fritz &amp; Ellen</text>
+<text x="260" y="515" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#555" text-anchor="middle">Fritz (1875–1938)</text>
+<text x="260" y="548" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#555" text-anchor="middle">Ellen (1888–1971)</text>
+<text x="260" y="588" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">Great Uncle &amp; Aunt</text>
+<text x="260" y="625" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#777" text-anchor="middle">Never knew either of them</text>
+
+
+<line x1="780" y1="390" x2="780" y2="425" stroke="#666" stroke-width="6" />
+<rect x="555" y="425" width="450" height="225" rx="12" fill="#dbeaf7" stroke="#666" stroke-width="6" />
+<text x="780" y="475" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Esther</text>
+<text x="780" y="515" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#555" text-anchor="middle">Esther (1877–1973)</text>
+<text x="780" y="560" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">Great Aunt</text>
+<text x="780" y="600" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">Never married</text>
+<text x="780" y="635" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#777" text-anchor="middle">No children</text>
+
+
+<line x1="1300" y1="390" x2="1300" y2="425" stroke="#666" stroke-width="6" />
+<rect x="1075" y="425" width="450" height="225" rx="12" fill="#dbeaf7" stroke="#666" stroke-width="6" />
+<text x="1300" y="475" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Arthur &amp; Emily</text>
+<text x="1300" y="515" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#555" text-anchor="middle">Arthur (1880–1957)</text>
+<text x="1300" y="548" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#555" text-anchor="middle">Emily (1877–1961)</text>
+<text x="1300" y="588" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">Great Uncle &amp; Aunt</text>
+<text x="1300" y="625" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#777" text-anchor="middle">Their child: Styles</text>
+
+
+<line x1="1820" y1="390" x2="1820" y2="425" stroke="#666" stroke-width="6" />
+<rect x="1595" y="425" width="450" height="225" rx="12" fill="#dbeaf7" stroke="#666" stroke-width="6" />
+<text x="1820" y="475" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#222" text-anchor="middle">Joseph E. &amp; Emmy</text>
+<text x="1820" y="515" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#555" text-anchor="middle">Joseph E. (1883–1964)</text>
+<text x="1820" y="548" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#555" text-anchor="middle">Emmy (1879–1972)</text>
+<text x="1820" y="588" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">My Grandparents</text>
+<text x="1820" y="625" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#777" text-anchor="middle">Their child: Joseph N.</text>
+
+
+<line x1="2340" y1="390" x2="2340" y2="425" stroke="#666" stroke-width="6" />
+<rect x="2115" y="425" width="450" height="225" rx="12" fill="#dbeaf7" stroke="#666" stroke-width="6" />
+<text x="2340" y="475" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Anna S. &amp; Vic</text>
+<text x="2340" y="515" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#555" text-anchor="middle">Anna S. (1887–1981)</text>
+<text x="2340" y="548" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#555" text-anchor="middle">Vic (1883–1968)</text>
+<text x="2340" y="588" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">Great Aunt &amp; Uncle</text>
+<text x="2340" y="625" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#777" text-anchor="middle">Jack shown here as their child*</text>
+
+
+<text x="1300" y="730" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#555" text-anchor="middle">GENERATION 2 — THEIR CHILDREN</text>
+
+
+<line x1="260" y1="650" x2="260" y2="800" stroke="#666" stroke-width="6" />
+<line x1="1300" y1="650" x2="1300" y2="800" stroke="#666" stroke-width="6" />
+<line x1="1820" y1="650" x2="1820" y2="800" stroke="#666" stroke-width="6" />
+<line x1="2340" y1="650" x2="2340" y2="800" stroke="#666" stroke-width="6" />
+
+
+<rect x="35" y="800" width="450" height="270" rx="12" fill="#f4dce8" stroke="#666" stroke-width="6" />
+<text x="260" y="850" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Anita &amp; Herb</text>
+<text x="260" y="885" text-anchor="middle" font-size="26"><tspan x="260" dy="0">Anita (1911–1987)</tspan><tspan x="260" dy="33">Herb (1908–1996)</tspan></text><text x="260" y="955" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">Daughter of Fritz &amp; Ellen</text>
+<text x="260" y="995" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#555" text-anchor="middle">Married to Anita</text>
+
+
+<rect x="555" y="800" width="450" height="270" rx="12" fill="#fafafa" stroke="#aaa" stroke-width="3" />
+<text x="780" y="865" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#555" text-anchor="middle">No children</text>
+<text x="780" y="915" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#777" text-anchor="middle">Esther never married</text>
+
+
+<rect x="1075" y="800" width="450" height="270" rx="12" fill="#f4dce8" stroke="#666" stroke-width="6" />
+<text x="1300" y="850" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Styles &amp; Iola</text>
+<text x="1300" y="885" text-anchor="middle" font-size="26"><tspan x="1300" dy="0">Styles (1909–2001)</tspan><tspan x="1300" dy="33">Iola (1911–1973)</tspan></text><text x="1300" y="955" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">Son of Arthur &amp; Emily</text>
+<text x="1300" y="1030" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#777" text-anchor="middle">Married to Styles</text>
+
+
+<rect x="1595" y="800" width="450" height="270" rx="12" fill="#f4dce8" stroke="#666" stroke-width="6" />
+<text x="1820" y="850" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#222" text-anchor="middle">Joseph N. &amp; Helen</text>
+<text x="1820" y="892" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">Joseph N. (1919–1993)</text>
+<text x="1820" y="925" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">Helen (1916–2011)</text><text x="1820" y="955" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">My Father</text>
+<text x="1820" y="1030" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#777" text-anchor="middle"><tspan x="1820" dy="0">Only child of Joseph E. &amp; Emmy</tspan><tspan x="1820" dy="30">Married to Helen</tspan></text><rect x="2115" y="800" width="450" height="270" rx="12" fill="#f4dce8" stroke="#666" stroke-width="6" />
+<text x="2340" y="850" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Jack &amp; Margret</text>
+<text x="2340" y="885" text-anchor="middle" font-size="26"><tspan x="2340" dy="0">Jack (1911–2003)</tspan><tspan x="2340" dy="33">Margret (1914–1992)</tspan></text><text x="2340" y="955" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#555" text-anchor="middle">Shown here as Anna S. &amp; Vic's child</text>
+<text x="2340" y="995" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#777" text-anchor="middle">*Family relationship as remembered</text>
+</svg>
