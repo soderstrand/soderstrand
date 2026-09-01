@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="2250" viewBox="0 0 1800 2250">
+<title>Grandma Soderstrand</title>
+<desc>Family tree from Johan Fredrik Jonsson and Anna Charlotta Persdotter through their children and the lineage leading from Johan Viktor Johansson to Violet, Jack Jergander, and Johan Tim Jergander.</desc>
+<rect width="1800" height="2250" fill="white"/>
+
+<text x="900" y="65" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#17365d" text-anchor="middle">Grandma Soderstrand</text>
+
+<!-- Parents -->
+<rect x="630" y="90" width="540" height="280" rx="12" fill="#dcefd8" stroke="#666" stroke-width="6"/>
+<text x="900" y="145" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" fill="#222" text-anchor="middle">Johan and Anna</text>
+<text x="900" y="195" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#555" text-anchor="middle">Johan Fredrik Jonsson 1851–1937</text>
+<text x="900" y="233" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#555" text-anchor="middle">Anna Charlotta Persdotter 1849–1943</text>
+<text x="900" y="280" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#555" text-anchor="middle">Parents of my Grandmother</text>
+<text x="900" y="313" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Emmy C. Soderstrand</text>
+
+<!-- Connectors to first generation -->
+<path d="M900 370 V425 M300 425 H1500 M300 425 V475 M900 425 V475 M1500 425 V475" stroke="#666" stroke-width="4" fill="none"/>
+
+<!-- First generation: Emmy/Joseph -->
+<rect x="30" y="475" width="540" height="300" rx="12" fill="#dbeaf7" stroke="#666" stroke-width="6"/>
+<text x="300" y="535" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Emmy and Joseph E.</text>
+<text x="300" y="585" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Emma Charlotta Jonsson 1879–1972</text>
+<text x="300" y="625" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Joseph Edward Söderstrand 1883–1964</text>
+<text x="300" y="685" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#555" text-anchor="middle">My Grandmother</text>
+<text x="300" y="718" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Emmy C. Soderstrand</text>
+
+<!-- First generation: Johan/Anna -->
+<rect x="630" y="475" width="540" height="300" rx="12" fill="#dbeaf7" stroke="#666" stroke-width="6"/>
+<text x="900" y="535" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Johan and Anna</text>
+<text x="900" y="585" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Johan Viktor Johansson 1877–1948</text>
+<text x="900" y="625" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Anna Hilda Kristina Krantz 1891–1944</text>
+
+<!-- First generation: Karl/? -->
+<rect x="1230" y="475" width="540" height="340" rx="12" fill="#dbeaf7" stroke="#666" stroke-width="6"/>
+<text x="1500" y="535" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Karl and ?</text>
+<text x="1500" y="585" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Karl Oskar Jonsson Tim 1881–1954</text>
+<text x="1500" y="625" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">? — Wife not known</text>
+<text x="1500" y="685" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Karl's wife is not known.</text>
+<text x="1500" y="718" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">This is not the lineage that leads</text>
+<text x="1500" y="749" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">to Jack and Johan.</text>
+
+<!-- Lineage connector -->
+<path d="M900 775 V845" stroke="#666" stroke-width="4" fill="none"/>
+
+<!-- Second generation -->
+<rect x="630" y="845" width="540" height="315" rx="12" fill="#f4dce8" stroke="#666" stroke-width="6"/>
+<text x="900" y="905" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Kurt and Violet</text>
+<text x="900" y="955" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Kurt Jergander 1916–1994</text>
+<text x="900" y="995" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Violet Dagny Karolina Johansson 1913–1990</text>
+<text x="900" y="1055" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#555" text-anchor="middle">Daughter of Johan Viktor Johansson</text>
+<text x="900" y="1088" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">and Anna Hilda Kristina Krantz</text>
+
+<path d="M900 1160 V1230" stroke="#666" stroke-width="4" fill="none"/>
+
+<!-- Jack and Ann-Marie -->
+<rect x="630" y="1230" width="540" height="330" rx="12" fill="#fff2b3" stroke="#666" stroke-width="6"/>
+<text x="900" y="1290" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Jack and Ann-Marie</text>
+<text x="900" y="1340" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Kurt Göran “Jack” Jergander 1940–2026</text>
+<text x="900" y="1380" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Ann-Marie Jergander 1943–present</text>
+<text x="900" y="1440" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#555" text-anchor="middle">Son of Kurt Jergander and</text>
+<text x="900" y="1473" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Violet Dagny Karolina Johansson</text>
+<text x="900" y="1515" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Born 21 September 1943</text>
+
+<path d="M900 1560 V1630" stroke="#666" stroke-width="4" fill="none"/>
+
+<!-- Johan and Victorine -->
+<rect x="630" y="1630" width="540" height="245" rx="12" fill="#e6dcf5" stroke="#666" stroke-width="6"/>
+<text x="900" y="1690" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Johan and Victorine</text>
+<text x="900" y="1740" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Johan Tim Jergander 1970–present</text>
+<text x="900" y="1780" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Victorine Elisabeth Jergander 1972–present</text>
+<text x="900" y="1822" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Born 3 November 1970</text>
+
+<!-- Emmy and Joseph E. -> my parents -> me -> our children -->
+<path d="M300 775 V845" stroke="#666" stroke-width="4" fill="none"/>
+
+<!-- My Parents -->
+<rect x="30" y="845" width="540" height="300" rx="12" fill="#f4dce8" stroke="#666" stroke-width="6"/>
+<text x="300" y="905" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Helen and Joseph N.</text>
+<text x="300" y="955" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Helen Irene Dewees 1916–2011</text>
+<text x="300" y="995" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Joseph Norman Soderstrand 1919–1993</text>
+<text x="300" y="1055" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#555" text-anchor="middle">My Parents</text>
+
+<path d="M300 1145 V1230" stroke="#666" stroke-width="4" fill="none"/>
+
+<!-- Me and Eunyoung -->
+<rect x="30" y="1230" width="540" height="330" rx="12" fill="#fff2b3" stroke="#666" stroke-width="6"/>
+<text x="300" y="1290" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Eunyoung and Michael</text>
+<text x="300" y="1340" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Eunyoung Kim 1951–present</text>
+<text x="300" y="1380" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Michael Alan Soderstrand 1946–present</text>
+<text x="300" y="1508" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">We are in Jack Jergander's generation</text>
+
+<path d="M300 1560 V1630" stroke="#666" stroke-width="4" fill="none"/>
+
+<!-- Our Children -->
+<rect x="30" y="1630" width="540" height="270" rx="12" fill="#e6dcf5" stroke="#666" stroke-width="6"/>
+<text x="300" y="1690" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#222" text-anchor="middle">Matt and Grace</text>
+<text x="300" y="1740" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#555" text-anchor="middle">Matthew and Grace</text>
+<text x="300" y="1780" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#555" text-anchor="middle">My son and daughter</text>
+<text x="300" y="1830" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#777" text-anchor="middle">Our children are Johan Jergander's generation</text>
+
+</svg>
