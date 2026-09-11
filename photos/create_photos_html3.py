@@ -8,14 +8,10 @@ B = Month
 C = Day
 D = Title
 E = File Name
-
-The generated page uses Mozilla PDF.js to display each PDF and also
-provides a direct download link.
 """
 
 from pathlib import Path
 from urllib.parse import quote
-from html import escape
 import sys
 
 try:
@@ -26,31 +22,16 @@ except ImportError:
     input("Press Enter to exit...")
     sys.exit(1)
 
-
-# ------------------------------------------------------------
-# Configuration
-# ------------------------------------------------------------
-
 EXCEL_FILE = "pdf_files.xlsx"
 TEMPLATE_FILE = "photos_placeholder.html"
 OUTPUT_FILE = "photos.html"
 PDF_DIRECTORY_URL = "https://soderstrand.com/photos/"
 PDFJS_VIEWER = "https://mozilla.github.io/pdf.js/web/viewer.html?file="
 
-
-# ------------------------------------------------------------
-# Files are located relative to this Python program
-# ------------------------------------------------------------
-
 script_directory = Path(__file__).resolve().parent
 excel_path = script_directory / EXCEL_FILE
 template_path = script_directory / TEMPLATE_FILE
 output_path = script_directory / OUTPUT_FILE
-
-
-# ------------------------------------------------------------
-# Read Excel file
-# ------------------------------------------------------------
 
 print("Reading Excel File")
 print(f"Excel file being read: {EXCEL_FILE}")
@@ -81,24 +62,23 @@ try:
     for row_number, row in enumerate(
         worksheet.iter_rows(min_row=2, values_only=True), start=2
     ):
-        values = list(row[:5]) + [None] * max(0, 5 - len(row[:5]))
-        year, month, day, title, filename = values[:5]
-
-        if all(value is None or str(value).strip() == "" for value in values):
+        if all(value is None or str(value).strip() == "" for value in row[:5]):
             continue
 
-        if title is None or str(title).strip() == "":
-            raise ValueError(f"Row {row_number}: Title (column D) is blank.")
+        title = "" if row[3] is None else str(row[3]).strip()
+        filename = "" if row[4] is None else str(row[4]).strip()
 
-        if filename is None or str(filename).strip() == "":
+        if not title:
+            raise ValueError(f"Row {row_number}: Title (column D) is blank.")
+        if not filename:
             raise ValueError(f"Row {row_number}: File Name (column E) is blank.")
 
         records.append({
-            "year": year,
-            "month": month,
-            "day": day,
-            "title": str(title).strip(),
-            "filename": str(filename).strip(),
+            "year": row[0],
+            "month": row[1],
+            "day": row[2],
+            "title": title,
+            "filename": filename,
         })
 
     workbook.close()
@@ -110,17 +90,11 @@ except Exception as error:
     input("Press Enter to exit...")
     sys.exit(1)
 
-
-# ------------------------------------------------------------
-# Read HTML template
-# ------------------------------------------------------------
-
 try:
     if not template_path.exists():
         raise FileNotFoundError(
             f"Could not find '{TEMPLATE_FILE}' in the same directory as this program."
         )
-
     template = template_path.read_text(encoding="utf-8")
 
 except Exception as error:
@@ -128,55 +102,36 @@ except Exception as error:
     input("Press Enter to exit...")
     sys.exit(1)
 
-
-# ------------------------------------------------------------
-# Create the PDF links
-# ------------------------------------------------------------
-
-photo_entries = []
+photo_links = []
 
 for record in records:
     title = record["title"]
     filename = record["filename"]
 
-    # Encode the filename ONCE for the website URL.
+    # Encode the filename for the direct PDF URL.
     encoded_filename = quote(filename, safe="")
     pdf_url = PDF_DIRECTORY_URL + encoded_filename
 
-    # IMPORTANT: Do not quote(pdf_url) a second time.
-    # The %20 (for example) must remain %20 in the PDF.js URL,
-    # rather than becoming %2520.
-    pdfjs_url = PDFJS_VIEWER + pdf_url
-
-    # Safely insert text and URLs into HTML.
-    safe_title = escape(title)
-    safe_pdf_url = escape(pdf_url, quote=True)
-    safe_pdfjs_url = escape(pdfjs_url, quote=True)
-
-    # Warn if a referenced PDF is not present beside this program.
-    local_pdf = script_directory / filename
-    if not local_pdf.exists():
-        print(f"WARNING: PDF not found locally: {filename}")
+    # Encode the complete PDF URL as PDF.js's file parameter.
+    pdfjs_url = PDFJS_VIEWER + quote(pdf_url, safe="")
 
     entry = (
         '        <div class="photo-entry">\n'
-        f'            <h3>{safe_title}</h3>\n'
+        f'            <h3>{title}</h3>\n'
         '            <p>\n'
-        f'                <a href="{safe_pdfjs_url}" target="_blank" rel="noopener">View PDF</a>\n'
+        f'                <a href="{pdfjs_url}" target="_blank" rel="noopener">\n'
+        '                    View PDF\n'
+        '                </a>\n'
         '                &nbsp;|&nbsp;\n'
-        f'                <a href="{safe_pdf_url}" download>Download PDF</a>\n'
+        f'                <a href="{pdf_url}" download>\n'
+        '                    Download PDF\n'
+        '                </a>\n'
         '            </p>\n'
         '        </div>'
     )
+    photo_links.append(entry)
 
-    photo_entries.append(entry)
-
-links_html = "\n\n".join(photo_entries)
-
-
-# ------------------------------------------------------------
-# Replace the <main> section in the template
-# ------------------------------------------------------------
+links_html = "\n\n".join(photo_links)
 
 try:
     main_start = template.index("<main")
@@ -205,19 +160,12 @@ except ValueError:
     input("Press Enter to exit...")
     sys.exit(1)
 
-
-# ------------------------------------------------------------
-# Write photos.html
-# ------------------------------------------------------------
-
 try:
     output_path.write_text(html, encoding="utf-8")
     print("photos.html created")
-
 except Exception as error:
     print(f"ERROR creating photos.html: {error}")
     input("Press Enter to exit...")
     sys.exit(1)
-
 
 input("Press Enter to exit...")
