@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="2048" height="3000" viewBox="0 0 2048 3000" version="1.1" id="svg51" sodipodi:docname="cousins1.svg" ns2:version="1.4.4 (dcaf3e7, 2026-05-05)">
+  <defs id="defs51" />
+  <sodipodi:namedview id="namedview51" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:zoom="0.84" ns2:cx="1026.1905" ns2:cy="1051.7857" ns2:window-width="1920" ns2:window-height="974" ns2:window-x="-11" ns2:window-y="-11" ns2:window-maximized="1" ns2:current-layer="editable-names" />
+  <title id="title1">Editable Cousins Circle Chart</title>
+  <desc id="desc1">Vector reconstruction of the supplied PNG. All names are editable SVG text elements.</desc>
+  <rect width="100%" height="100%" fill="white" id="rect1" />
+  <g id="chart" transform="translate(8.8235294,-26.470588)">
+    <circle cx="1024" cy="1024" r="950" fill="#f3d9d9" stroke="#777777" stroke-width="2" id="circle1" />
+    <circle cx="1024" cy="1024" r="690" fill="#dcefdc" stroke="#777777" stroke-width="2" id="circle2" />
+    <path d="M 1534,1024 A 510,510 0 0 1 1503.8,1198.5 L 1672.5,1260.1 A 690,690 0 0 0 1714,1024 Z" fill="#cfcfcf" id="path_bobby_right_grey" />
+    <text x="1614.9" y="1128.2" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-80,1614.9,1128.2)" id="text_no_children">No Children</text>
+    <circle cx="1024" cy="1024" r="510" fill="#fff1bf" stroke="#777777" stroke-width="2" id="circle3" />
+    <circle cx="1024" cy="1024" r="350" fill="#dbe8f8" stroke="#777777" stroke-width="2" id="circle4" />
+    <circle cx="1024" cy="1024" r="190" fill="#eeeeee" stroke="#777777" stroke-width="2" id="circle5" />
+    <path d="M 339.143,1108.090 A 690,690 0 0 1 339.143,939.910 L 517.801,961.847 A 510,510 0 0 0 517.801,1086.153 Z" fill="#cfcfcf" stroke="none" id="joseph_green_gray_slice"/>
+    <path d="M 81.081,1139.776 A 950,950 0 0 1 81.081,908.224 L 339.143,939.910 A 690,690 0 0 0 339.143,1108.090 Z" fill="#cfcfcf" stroke="none" id="joseph_pink_gray_slice"/>
+    <path d="M 517.801,1086.153 A 510,510 0 0 1 517.801,961.847 L 676.609,981.346 A 350,350 0 0 0 676.609,1066.654 Z" fill="#fff1bf" stroke="none" id="joseph_yellow_slice"/>
+    <path d="m 1024,1974 a 950,950 0 0 1 -363.5,-72.3 l 99.4,-240.2 A 690,690 0 0 0 1024,1714 Z" fill="#cfcfcf" stroke="#777777" stroke-width="2" id="path5" />
+<line x1="676.609" y1="1066.654" x2="81.081" y2="1139.776" stroke="#777777" stroke-width="2" id="joseph_slice_boundary_1"/>
+    <line x1="676.609" y1="981.346" x2="81.081" y2="908.224" stroke="#777777" stroke-width="2" id="joseph_slice_boundary_2"/>
+    <circle cx="1024" cy="1024" r="190" fill="none" stroke="#777777" stroke-width="2" id="circle6" />
+    <circle cx="1024" cy="1024" r="350" fill="none" stroke="#777777" stroke-width="2" id="circle7" />
+    <circle cx="1024" cy="1024" r="510" fill="none" stroke="#777777" stroke-width="2" id="circle8" />
+    <circle cx="1024" cy="1024" r="690" fill="none" stroke="#777777" stroke-width="2" id="circle9" />
+    <circle cx="1024" cy="1024" r="950" fill="none" stroke="#777777" stroke-width="2" id="circle10" />
+    <line x1="1024" y1="834" x2="1024" y2="74" stroke="#777777" stroke-width="2" id="line10" />
+    <line x1="1214" y1="1024" x2="1974" y2="1024" stroke="#777777" stroke-width="2" id="line12" />
+    <line x1="1024" y1="1214" x2="1024" y2="1974" stroke="#777777" stroke-width="2" id="line13" />
+<line x1="1199.000000" y1="720.891109" x2="1279.000000" y2="582.327044" stroke="#777777" stroke-width="2" id="line26" />
+<line x1="1327.108891" y1="849.000000" x2="1465.672956" y2="769.000000" stroke="#777777" stroke-width="2" id="line27" />
+<text x="1328.040815" y="719.959185" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(45,1328.040815,719.959185)" id="text52">Cecilia</text>
+<text x="1328.040815" y="757.959185" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(45,1328.040815,719.959185)" id="text52_relationship">Cousin Cecilia</text>
+<text x="1439.327477" y="912.713338" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(75,1439.327477,912.713338)" id="text53">Virginia</text>
+<text x="1439.327477" y="950.713338" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(75,1439.327477,912.713338)" id="text53_relationship">Cousin Virginia</text>
+    <line x1="386.5" y1="759.90002" x2="146.3" y2="660.5" stroke="#777777" stroke-width="2" id="line17" />
+    <line x1="1352.9" y1="1143.7" x2="1916.716634" y2="1348.895387" stroke="#777777" stroke-width="2" id="line18" />
+    <line x1="663.40002" y1="663.40002" x2="352.20001" y2="352.20001" stroke="#777777" stroke-width="2" id="line19" />
+    <line x1="828.79999" y1="1495.2" x2="660.5" y2="1901.7" stroke="#777777" stroke-width="2" id="line21" />
+    <line x1="552.79999" y1="1219.2" x2="146.3" y2="1387.5" stroke="#777777" stroke-width="2" id="line22" />
+    <line x1="1157.9" y1="1347.4" x2="1387.5" y2="1901.7" stroke="#777777" stroke-width="2" id="line23" />
+    <line x1="1123.496064" y1="1524.200493" x2="1209.335806" y2="1955.746016" stroke="#777777" stroke-width="2" id="line24" />
+    <line x1="1315.611860" y1="1442.404736" x2="1567.198562" y2="1803.381371" stroke="#777777" stroke-width="2" id="line25" />
+    <g id="editable-names" fill="#111111">
+      <text x="1024" y="994" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" id="text25">Chauncy &amp; Frances</text>
+      <text x="1024" y="1052" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" id="text26">Maternal Grandparents</text>
+      <text x="1452.3969" y="-285.52972" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(45)" font-style="normal" id="text27">Dick &amp; Bernetha</text>
+      <text x="1450.9835" y="-247.34598" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(45)" id="text28">Uncle &amp; Aunt</text>
+      <text x="1135.286662" y="608.672523" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(15,1135.286662,608.672523)" id="text29">Ronald &amp; Irene</text>
+<text x="1135.286662" y="646.672523" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(15,1135.286662,608.672523)" id="text29_relationship">Cousin Ronald</text>
+      <text x="776.79999" y="493.79999" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-25,776.8,493.8)" id="text30">Grace &amp; Lats</text>
+<text x="776.79999" y="531.8" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-25,776.8,493.8)" id="text30_relationship">Daughter and Son-in-law</text>
+      <text x="671.09998" y="300.5" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-26,671.1,300.5)" id="text31">Maru</text>
+<text x="671.09998" y="338.5" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-26,671.1,300.5)" id="text31_relationship">Grandson</text>
+      <text x="364.60001" y="562.29999" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-55,364.6,562.3)" id="text32">Kellan</text>
+<text x="364.60001" y="600.3" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-55,364.6,562.3)" id="text32_relationship">Grandson</text>
+      <text x="481.60001" y="804.90002" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-68,481.6,804.9)" id="text33">Matt &amp; Karen</text>
+<text x="481.60001" y="842.9" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-68,481.6,804.9)" id="text33_relationship">Son and Daughter-in-law</text>
+      <text x="239.60001" y="842.90002" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-77,239.6,842.9)" id="text34">Ollie</text>
+<text x="239.60001" y="880.9" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-77,239.6,842.9)" id="text34_relationship">Grandson</text>
+      <text x="448.8" y="1182.0" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(74,448.8,1182.0)" id="text35">Billy &amp; Toni</text>
+<text x="456.0" y="1218.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(74,448.8,1182.0)" id="text35_relationship">Nephew</text>
+      <text x="242.89999" y="1218.7" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(76,242.9,1218.7)" id="text36">Luna</text>
+
+      <text x="719.94683" y="1328.02740" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(45,719.94683,1328.02740)" id="text37">Norma &amp; Jon</text>
+<text x="729.78196" y="1364.73258" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(45,719.94683,1328.02740)" id="text37_relationship">Sister &amp; Brother-in-law</text>
+      <text x="632.59998" y="1458.7" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(42,632.6,1458.7)" id="text38">Priscilla &amp; Brian</text>
+<text x="632.59998" y="1496.7" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(42,632.6,1458.7)" id="text38_relationship">Niece</text>
+      <text x="892.40002" y="1594" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(13,892.4,1594)" id="text39">Monica</text>
+<text x="892.40002" y="1632" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(13,892.4,1594)" id="text39_relationship">Niece</text>
+      <text x="1106" y="1446.1" font-size="24px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-11,1106,1446.1)" id="text40"><tspan x="1106" y="1432.100000">Judy &amp;</tspan><tspan x="1106" y="1460.100000">George</tspan></text>
+<text x="1106" y="1490.100000" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-11,1106,1446.1)" id="text40_relationship">Cousin Judy</text>
+      <text x="1075" y="1606.8" font-size="24px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-5,1075,1606.8)" id="text41"><tspan x="1075" y="1592.8">Mark &amp;</tspan><tspan x="1075" y="1620.8">Kamini</tspan></text>
+      <text x="1195" y="1583.4" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-17,1195,1583.4)" id="text42">Gigi</text>
+      <text x="1264.473156" y="1380.473928" font-size="24px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-34.000000,1264.473156,1380.473928)" id="text43"><tspan x="1282.8" y="1362.400000">Barbara &amp;</tspan><tspan x="1282.8" y="1390.400000">Mike</tspan></text>
+<text x="1264.473156" y="1424.473928" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-34.000000,1264.473156,1380.473928)" id="text43_relationship">Cousin Barbara</text>
+      <text x="1224.6" y="1174.7" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-48,1224.6,1174.7)" font-style="normal" id="text44">Harold &amp; Mickey</text>
+      <text x="-59.790077" y="1733.9927" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-48)" id="text45">Uncle &amp; Aunt</text>
+      <text x="1388.7" y="1251.9" font-size="24px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-58,1388.7,1251.9)" id="text46"><tspan x="1388.7" y="1237.900000">Betty &amp;</tspan><tspan x="1388.7" y="1265.900000">Chuck</tspan></text>
+<text x="1388.7" y="1295.900000" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-58,1388.7,1251.9)" id="text46_relationship">Cousin Betty</text>
+      <text x="1447.5" y="1098.7" font-size="24px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-80,1447.5,1098.7)" id="text47"><tspan x="1447.5" y="1084.700000">Bobby &amp;</tspan><tspan x="1447.5" y="1112.700000">LaWana</tspan></text>
+<text x="1447.5" y="1142.700000" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-80,1447.5,1098.7)" id="text47_relationship">Cousin Bobby</text>
+      <text x="-1028" y="746" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90)" font-style="normal" id="text49">Helen &amp; Joseph N.</text>
+      <text x="-1028" y="788" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-90)" id="text50">Parents</text>
+      <text x="737.648044" y="702.864464" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-47.060633,722.220204,722.220204)" font-style="normal" id="text_michael_eunyoung">Michael &amp; Eunyoung</text><text x="737.648044" y="740.864464" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="normal" font-style="italic" fill="#111111" transform="rotate(-47.060633,722.220204,722.220204)" id="text_michael_relationship">Me &amp; My Wife</text><text x="867" y="1813.5" font-size="28px" font-family="Arial, Helvetica, sans-serif" font-weight="500" text-anchor="middle" dominant-baseline="middle" transform="rotate(11.2,867,1813.5)" id="text51">No Children</text>
+    </g>
+  <line x1="1281.0" y1="1261.6" x2="1721.580282" y2="1668.888944" stroke="#777777" stroke-width="2" id="barbara_betty_boundary_spoke" /><line x1="1476.032538" y1="1260.149497" x2="1866.021394" y2="1463.886318" stroke="#777777" stroke-width="2" id="betty_trisect_spoke_27583" /><text x="1418.129139" y="1476.396089" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-41.062500,1418.129139,1476.396089)" id="angie_under_barbara">Angie</text><text x="1312.019273" y="1550.350547" font-size="24px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(-28.687500,1312.019273,1550.350547)" id="ty_under_barbara"><tspan x="1312.019273" y="1538.350547">TY &amp;</tspan><tspan x="1312.019273" y="1564.350547">Carolina</tspan></text><text x="1573.011011" y="1266.047330" font-size="24px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(23.791667,1573.011011,1266.047330)" id="ingmar_under_betty"><tspan x="1573.011011" y="1254.047330">Ingmar &amp;</tspan><tspan x="1573.011011" y="1280.047330">Deborah</tspan></text><text x="1536.266830" y="1336.382290" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(31.375000,1536.266830,1336.382290)" id="michaeli_under_betty">Michaeli</text><text x="1490.562046" y="1401.253041" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" transform="rotate(38.958333,1490.562046,1401.253041)" id="bryan_under_betty">Bryan</text><text x="1104.374055" y="1840.051476" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111111" transform="rotate(-5.625000,1104.374055,1840.051476)" id="everest_under_mark_kamini">Everest</text><text x="1262.033435" y="1808.691075" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111111" transform="rotate(-16.875000,1262.033435,1808.691075)" id="jay_bala_under_gigi">Jay Bala</text><text x="1378.229645" y="1763.541317" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111111" transform="rotate(61.312500,1378.229645,1763.541317)" id="quino_under_ty">Quino</text><text x="1562.643157" y="1642.274655" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111111" transform="rotate(-41.062500,1562.643157,1642.274655)" id="taite_under_angie">Taite</text><line x1="1355.222164" y1="1629.303129" x2="1480.030516" y2="1857.388366" stroke="#777777" stroke-width="2" id="quino_pink_bisecting_spoke" /><text x="1455.875665" y="1721.053377" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111111" transform="rotate(61.312500,1455.875665,1721.053377)" id="andolina_above_quino_bisector">Andolina</text><path d="M 1635.573433,1343.496378 A 690,690 0 0 1 1588.061279,1421.410208 L 1800.606109,1571.158982 A 950,950 0 0 0 1866.021394,1463.886318 Z" fill="#cfcfcf" id="michaeli_pink_to_gray" /><text x="1724.098000" y="1450.922463" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111111" transform="rotate(31.375000,1724.098000,1450.922463)" id="no_children_michaeli">No Children</text><path d="M 1588.061279,1421.410208 A 690,690 0 0 1 1530.682532,1492.372514 L 1721.606384,1668.860708 A 950,950 0 0 0 1800.606109,1571.158982 Z" fill="#cfcfcf" id="bryan_pink_to_gray" /><text x="1661.634797" y="1539.579156" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111111" transform="rotate(38.958333,1661.634797,1539.579156)" id="no_children_bryan">No Children</text><line x1="1440.914859" y1="1317.737980" x2="1800.606109" y2="1571.158982" stroke="#777777" stroke-width="2" id="betty_trisect_spoke_35167" /><line x1="1655.362661" y1="1302.354433" x2="1893.267432" y2="1407.241611" stroke="#777777" stroke-width="2" id="ingmar_pink_bisect_spoke" /><text x="1784.847968" y="1329.794652" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111111" transform="rotate(23.791667,1784.847968,1329.794652)" id="wyatt_under_ingmar">Wyatt</text><text x="1762.960720" y="1379.439242" font-size="30px" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111111" transform="rotate(23.791667,1762.960720,1379.439242)" id="deven_under_ingmar">Deven</text></g>
+  <g id="joseph_norman_soderstrand_jr_label" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#111111">
+  <text x="594" y="986" font-size="22px" font-weight="bold">Joseph N.</text>
+  <text x="594" y="1010" font-size="22px" font-weight="bold">Soderstrand, Jr.</text>
+  <text x="594" y="1034" font-size="20px" font-style="italic">(Stillborn)</text>
+</g>
+  <g id="legend" font-family="Arial, Helvetica, sans-serif" fill="#111111">
+    <text x="110" y="2090" font-size="80px" font-weight="bold" text-anchor="start">Legend:  Each Band Represents One Generation</text>
+
+    <circle cx="145" cy="2180" r="38" fill="#eeeeee" stroke="#000000" stroke-width="5" />
+    <text x="215" y="2208" font-size="76px" font-weight="normal" text-anchor="start"><tspan font-weight="bold">Center:</tspan>  My maternal grandparents</text>
+
+    <circle cx="145" cy="2312" r="38" fill="#dbe8f8" stroke="#000000" stroke-width="5" />
+    <text x="215" y="2340" font-size="76px" font-weight="normal" text-anchor="start"><tspan font-weight="bold" fill="#0000ff">Blue Band:</tspan> My parents, aunts and uncles</text>
+
+    <circle cx="145" cy="2444" r="38" fill="#fff1bf" stroke="#000000" stroke-width="5" />
+    <text x="215" y="2472" font-size="76px" font-weight="normal" text-anchor="start"><tspan font-weight="bold" fill="#B8860B">Yellow Band:</tspan> My siblings and first cousins</text>
+
+    <circle cx="145" cy="2576" r="38" fill="#dcefdc" stroke="#000000" stroke-width="5" />
+    <text x="215" y="2604" font-size="76px" font-weight="normal" text-anchor="start">
+      <tspan x="215" dy="0"><tspan font-weight="bold" fill="#008000">Green Band:</tspan> My children, nieces, nephews and</tspan>
+      <tspan x="215" dy="88">first cousins once removed</tspan>
+    </text>
+
+    <circle cx="145" cy="2796" r="38" fill="#f3d9d9" stroke="#000000" stroke-width="5" />
+    <text x="215" y="2824" font-size="76px" font-weight="normal" text-anchor="start">
+      <tspan x="215" dy="0"><tspan font-weight="bold" fill="#ff0000">Pink Band:</tspan> My grandchildren, great nieces and</tspan>
+      <tspan x="215" dy="88">great nephews, and my first cousins twice removed.</tspan>
+    </text>
+  </g>
+  <metadata id="metadata51">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:title>Editable Cousins Circle Chart</dc:title>
+      </ns4:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
